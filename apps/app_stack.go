@@ -12,7 +12,6 @@ import (
 	. "github.com/cloudfoundry/cf-acceptance-tests/helpers/random_name"
 	"github.com/cloudfoundry/cf-acceptance-tests/helpers/skip_messages"
 	"github.com/cloudfoundry/cf-test-helpers/v2/cf"
-	"github.com/cloudfoundry/cf-test-helpers/v2/helpers"
 	"github.com/cloudfoundry/cf-test-helpers/v2/workflowhelpers"
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
